@@ -1,5 +1,9 @@
 # Landing Page "Intro section with dropdown navigation"
 
+<p align="center">
+  Este é um projeto sobre <a href="https://matias-ezequiel-correa.github.io/intro-section-dropdown-nav/" target="_blank">Section with dropdown navigation,</a> é uma landing page com a seção de navegação suspensa, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+</p>
+
 ## Desing: 
 * Desktop:
 [<p align="center"><img height="400em" src="./src/design/desktop-design.jpg" alt="Projeto Landing Page  - Versão Desktop">](https://matias-ezequiel-correa.github.io/intro-section-dropdown-nav/)<p>
