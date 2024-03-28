@@ -1,4 +1,4 @@
-# Landing Page "Intro section with dropdown navigation" 🔽
+# Landing Page "Intro section with dropdown navigation"
 
 ## Desing: 
 * Desktop:
